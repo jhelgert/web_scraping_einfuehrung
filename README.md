@@ -1,6 +1,6 @@
 # Web Scraping in Python mit BeautifulSoup
 
-Gehalten im Mai 2021 für [STADS](https://stads.uni-mannheim.de/) (Uni Mannheim). 
+Jeweils gehalten im Mai 2021 und November 2021 für [STADS](https://stads.uni-mannheim.de/) (Uni Mannheim). 
 
 ## Voraussetzungen
 
